@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding:0;
+    position: absolute;
+}
+#opaCity{
+    opacity: 0.6;
+    position:absolute;
+    width:auto;
+    height: 480px;
+    margin-left: -640px;
+}
